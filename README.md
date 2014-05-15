@@ -14,4 +14,4 @@ Chameleon could be used very freely.
 
 `chameleon(document.selectById('targetEle'),{background:'red',color:'white'})`   
 
-Very Simple, doesn't it?
+Very Simple, isn't it?
